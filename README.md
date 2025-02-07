@@ -14,7 +14,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) <br/>
 ![Sanity](https://img.shields.io/badge/sanity-%23323330?style=for-the-badge&logo=sanity&logoColor=white) <br/>
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) <br/>
-![React Query](https://img.shields.io/badge/React%20query%2320232a?style=for-the-badge&logo=react-query&logoColor=white) <br/>
+![React Query](https://img.shields.io/badge/React%20query-%2320232a?style=for-the-badge&logo=react-query&logoColor=white) <br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br/>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br/>
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) <br/>
