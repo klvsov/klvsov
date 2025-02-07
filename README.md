@@ -1,9 +1,13 @@
 # 💫 About Me:
-💻 Frontend-developer<br>🎯 React<br>🛠🔋 Next
+💻 Frontend-developer<br>
+🎯 React<br>
+🛠 Next
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/klvsov) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/klvsov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/klvsov) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/klvsov) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/klvsov) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/klvsov) 
 
 # 💻 Tech Stack:
 
@@ -39,4 +43,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=klvsov&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klvsov&show_icons=true)
+![Klvsov's GitHub stats](https://github-readme-stats.vercel.app/api?username=klvsov&show_icons=true)
