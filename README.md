@@ -23,7 +23,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Styled Components](https://img.shields.io/badge/sanity-DB7093?style=for-the-badge&logo=sanity&logoColor=white)
+![Sanity](https://img.shields.io/badge/sanity-%23323330?style=for-the-badge&logo=sanity&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=klvsov&icon=0&color=0)](https://visitcount.itsvg.in)
